@@ -36,7 +36,7 @@ Berikut adalah beberapa *tool* dan bahasa yang sudah mulai saya sentuh:
 
 Saya selalu terbuka untuk berdiskusi, belajar dari yang berpengalaman, dan berkolaborasi dalam proyek.
 
-* **Email:** divvpcode.dev@email.com
+* **Email:** divanfdv@gmail.com
 * **LinkedIn/Platform :** https://www.instagram.com/divpp.i?igsh=eW9rd24xZ2plYndl
 
 > **"Koding hari ini adalah solusi untuk masalah besok."** — Mari terus belajar!
